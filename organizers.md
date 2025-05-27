@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet the Organizers
+title: Meet the Organisers
 permalink: /organizers/
 ---
 
