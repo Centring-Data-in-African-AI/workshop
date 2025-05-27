@@ -28,11 +28,13 @@ permalink: /lightningtalks/
 </style>
 
 <!-- Paste this button wherever you need it -->
+<div class="center">
 <a class="button-blue"
    href="https://forms.gle/b7puQJswxM2dLcMe7"
    target="_blank" rel="noopener">
   Apply for lightning talks
 </a>
+</div>
 
 ### **THEME 1: Socio-technical Challenges & Opportunities**
 
