@@ -44,21 +44,21 @@ The organising team for this workshop has rich and varied collective experience 
 
 <!-- Org 1 -->
 <div class="speaker-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/wiebke.jpg" alt="Wiebke" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/wiebke.jpg" alt="Dr Wiebke Hutiri" />
     <div class="speaker-name">Dr Wiebke Hutiri</div>
     <div class="speaker-affil">Research Scientist, Sony AI, Switzerland</div>
 </div>
 
 <!-- Org 2 -->
 <div class="speaker-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/SMHall.jpg" alt="Wiebke" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/SMHall.jpg" alt="Siobhan Mackenzie Hall" />
     <div class="speaker-name">Siobhan Mackenzie Hall</div>
     <div class="speaker-affil">DPhil Student, University of Oxford</div>
 </div>
 
 <!-- Org 3 -->
 <div class="speaker-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/SMHall.jpg" alt="Wiebke" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/SMHall.jpg" alt="Raesetje Sefala" />
     <div class="speaker-name">Raesetje Sefala</div>
     <div class="speaker-affil">PhD Student at McGill University and Mila, Research fellow at DAIR Institute, Canada</div>
 </div>
@@ -66,21 +66,21 @@ The organising team for this workshop has rich and varied collective experience 
 
 <!-- Org 4 -->
 <div class="speaker-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/jess.jpeg" alt="Wiebke" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/jess.jpeg" alt="Jessica Ojo" />
     <div class="speaker-name">Jessica Ojo</div>
     <div class="speaker-affil">Research Engineer, Lelapa.ai, Research Student at McGill University and Mila, Canada</div>
 </div>
 
 <!-- Org 5 -->
 <div class="speaker-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/aremu.jpg alt="Wiebke" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/aremu.jpg" alt="Aremu Anuoluwapo" />
     <div class="speaker-name">Aremu Anuoluwapo</div>
     <div class="speaker-affil">Lead Data Officer, Lelapa.ai, MSc. student at the University of Trento, Italy</div>
 </div>
 
 <!-- Org 6 -->
 <div class="speaker-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/chris emezue.jpg" alt="Wiebke" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/chris emezue.jpg" alt="Chris Emezue" />
     <div class="speaker-name">Chris Emezue</div>
     <div class="speaker-affil">Founder and Executive Director at Lanfrica Labs, Researcher at Mila, Canada</div>
 </div>
