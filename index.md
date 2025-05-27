@@ -15,7 +15,6 @@ By framing data as a foundational resource for AI development, the workshop aims
 It will also provide a platform to discuss the current landscape of the data pipeline, share openly available datasets and tools, and foster connections among researchers, practitioners, and other stakeholders. A final report will be published to document the insights, resources, and outcomes of the workshop.
 
 <br>
-<br>
 
 <h1 style="color: #1e6c93; text-align: center;">Tentative Agenda</h1>
 
