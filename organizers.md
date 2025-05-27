@@ -4,7 +4,7 @@ title: Meet the Organizers
 permalink: /organizers/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+The organising team for this workshop has rich and varied collective experience in the African data ecosystem, and in working with African communities. Team members have worked on many technical and socio-technical aspects of data for AI, spanning data collection, crowdsourcing and annotation, data publishing, management, sharing and governance.
 
 <!-- =====  Speaker section  ===== -->
 <style>
@@ -39,7 +39,6 @@ Sleek is a modern Jekyll theme focused on speed performance & SEO best practices
 </style>
 
 <div class="speaker-section">
-  <h2>Invited Speakers</h2>
 
   <div class="speaker-grid">
 
