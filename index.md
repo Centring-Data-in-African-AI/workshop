@@ -5,7 +5,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Sleek Jekyll Theme
+title: Centring Data in African AI
 ---
 
 This workshop examines the challenges and opportunities surrounding data in African AI through both technical and socio-technical lenses. In particular, it highlights the importance of African data—data collected by or about Africans—as a means for local communities to assert greater agency and ownership within the AI value chain. 
