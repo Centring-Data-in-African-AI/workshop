@@ -28,7 +28,7 @@ permalink: /lightningtalks/
 .center { text-align:center; }
 </style>
 
-<!-- Paste this button wherever you need it -->
+<!-- Paste this button wherever you need it
 <div class="center">
 <a class="button-blue"
    href="https://forms.gle/b7puQJswxM2dLcMe7"
@@ -36,7 +36,7 @@ permalink: /lightningtalks/
   Apply for lightning talks
 </a>
 </div>
-<br>
+<br> -->
 
 ### **THEME 1: Socio-technical Challenges & Opportunities**
 
