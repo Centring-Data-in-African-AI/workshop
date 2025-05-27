@@ -25,6 +25,7 @@ permalink: /lightningtalks/
 .button-blue:active{             /* click “press” effect */
   transform:translateY(0);
 }
+.center { text-align:center; }
 </style>
 
 <!-- Paste this button wherever you need it -->
@@ -35,6 +36,7 @@ permalink: /lightningtalks/
   Apply for lightning talks
 </a>
 </div>
+<br>
 
 ### **THEME 1: Socio-technical Challenges & Opportunities**
 
