@@ -58,7 +58,7 @@ The organising team for this workshop has rich and varied collective experience 
 
 <!-- Org 3 -->
 <div class="speaker-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/SMHall.jpg" alt="Raesetje Sefala" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/rae_rae.png" alt="Raesetje Sefala" />
     <div class="speaker-name">Raesetje Sefala</div>
     <div class="speaker-affil">PhD Student at McGill University and Mila, Research fellow at DAIR Institute, Canada</div>
 </div>
