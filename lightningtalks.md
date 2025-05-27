@@ -5,6 +5,32 @@ permalink: /lightningtalks/
 ---
 
 
+<!-- Nice blue button -->
+<a href="https://docs.google.com/forms/d/your-form-id-here"
+   target="_blank"           
+   style="
+     display: inline-block;
+     background: #1e6c93;
+     color: #fff;
+     font-family: system-ui, sans-serif;
+     font-size: 1rem;
+     font-weight: 600;
+     padding: 0.75rem 1.5rem;
+     border-radius: 0.5rem;
+     text-decoration: none;
+     box-shadow: 0 3px 8px rgba(0,0,0,.15);
+     transition: background .2s ease, transform .2s ease;
+   "
+   onmouseover="this.style.background='#275f7e'"
+   onmouseout="this.style.background='#1e6c93'"
+   onmousedown="this.style.transform='translateY(1px)'"
+   onmouseup="this.style.transform='translateY(0)'"
+>
+  Apply for ligthning talk
+</a>
+
+
+
 ### **THEME 1: Socio-technical Challenges & Opportunities**
 
 **Focus:** People, systems, ethics, governance, community, labor.  
