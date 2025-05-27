@@ -42,39 +42,51 @@ Sleek is a modern Jekyll theme focused on speed performance & SEO best practices
   <h2>Invited Speakers</h2>
 
   <div class="speaker-grid">
-    <!-- Speaker 1 -->
-    <div class="speaker-card">
-      <img src="" alt="Ndapewa Onyothi Wilhelmina Nekoto" />
-      <div class="speaker-name">Ndapewa Onyothi<br>Wilhelmina Nekoto</div>
-      <div class="speaker-affil">Namibia / Masakhane</div>
-    </div>
 
-<!-- Speaker 2 -->
+<!-- Org 1 -->
 <div class="speaker-card">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/wiebke.jpg" alt="Wiebke" />
-    <div class="speaker-name">Dr. Chinasa T. Okolo</div>
-    <div class="speaker-affil">Brookings Institution</div>
+    <div class="speaker-name">Dr Wiebke Hutiri</div>
+    <div class="speaker-affil">Research Scientist, Sony AI, Switzerland</div>
 </div>
 
-<!-- Speaker 3 -->
+<!-- Org 2 -->
 <div class="speaker-card">
-    <img src="https://placehold.co/400x400" alt="Leonida Mutuku" />
-    <div class="speaker-name">Leonida Mutuku</div>
-    <div class="speaker-affil">LDRI</div>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/SMHall.jpg" alt="Wiebke" />
+    <div class="speaker-name">Siobhan Mackenzie Hall</div>
+    <div class="speaker-affil">DPhil Student, University of Oxford</div>
 </div>
 
-<!-- Speaker 4 -->
+<!-- Org 3 -->
 <div class="speaker-card">
-    <img src="https://placehold.co/400x400" alt="Dr. Lilian Wanzare" />
-    <div class="speaker-name">Dr. Lilian Wanzare</div>
-    <div class="speaker-affil">Maseno University</div>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/SMHall.jpg" alt="Wiebke" />
+    <div class="speaker-name">Raesetje Sefala</div>
+    <div class="speaker-affil">PhD Student at McGill University and Mila, Research fellow at DAIR Institute, Canada</div>
 </div>
 
-<!-- Speaker 5 -->
+
+<!-- Org 4 -->
 <div class="speaker-card">
-    <img src="https://placehold.co/400x400" alt="Chloe Burke" />
-    <div class="speaker-name">Chloe Burke</div>
-    <div class="speaker-affil">Meta</div>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/jess.jpeg" alt="Wiebke" />
+    <div class="speaker-name">Jessica Ojo</div>
+    <div class="speaker-affil">Research Engineer, Lelapa.ai, Research Student at McGill University and Mila, Canada</div>
+</div>
+
+<!-- Org 5 -->
+<div class="speaker-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/aremu.jpg alt="Wiebke" />
+    <div class="speaker-name">Aremu Anuoluwapo</div>
+    <div class="speaker-affil">Lead Data Officer, Lelapa.ai, MSc. student at the University of Trento, Italy</div>
+</div>
+
+<!-- Org 6 -->
+<div class="speaker-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/chris emezue.jpg" alt="Wiebke" />
+    <div class="speaker-name">Chris Emezue</div>
+    <div class="speaker-affil">Founder and Executive Director at Lanfrica Labs, Researcher at Mila, Canada</div>
+</div>
+
+
 </div>
 </div>
 </div>
