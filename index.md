@@ -13,7 +13,7 @@ This workshop examines the challenges and opportunities surrounding data in Afri
 By framing data as a foundational resource for AI development, the workshop aims to raise awareness of key concepts such as data licensing, annotation practices, and ethical data stewardship. 
 
 It will also provide a platform to discuss the current landscape of the data pipeline, share openly available datasets and tools, and foster connections among researchers, practitioners, and other stakeholders. A final report will be published to document the insights, resources, and outcomes of the workshop.
-
+<br><br><br><br>
 <!-- <details>
   <summary>Tentative Agenda</summary> -->
 
