@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lightning Talks Session
-permalink: /lightning-talks/
+permalink: /lightningtalks/
 ---
 ### **THEME 1: Socio-technical Challenges & Opportunities**
 
