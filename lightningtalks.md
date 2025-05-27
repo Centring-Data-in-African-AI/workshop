@@ -29,9 +29,9 @@ permalink: /lightningtalks/
 
 <!-- Paste this button wherever you need it -->
 <a class="button-blue"
-   href="https://docs.google.com/forms/d/your-form-id-here"
+   href="https://forms.gle/b7puQJswxM2dLcMe7"
    target="_blank" rel="noopener">
-  Fill out the form
+  Apply for lightning talks
 </a>
 
 ### **THEME 1: Socio-technical Challenges & Opportunities**
