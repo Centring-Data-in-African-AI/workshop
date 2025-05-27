@@ -3,8 +3,7 @@ layout: page
 title: Lightning Talks Session
 permalink: /lightningtalks/
 ---
-
-
+<div>
 <!-- Nice blue button -->
 <a href="https://docs.google.com/forms/d/your-form-id-here"
    target="_blank"           
@@ -28,6 +27,7 @@ permalink: /lightningtalks/
 >
   Apply for ligthning talk
 </a>
+</div>
 
 
 
