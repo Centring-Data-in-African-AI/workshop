@@ -16,7 +16,7 @@ It will also provide a platform to discuss the current landscape of the data pip
 
 <br>
 
-<h1 style="color: #1e6c93; text-align: center;">Tentative Agenda</h1>
+<h2 style="color: #1e6c93; text-align: center;">Tentative Agenda</h2>
 
 
 | Workshop Agenda                             | Duration              |
