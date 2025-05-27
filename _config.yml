@@ -21,7 +21,8 @@ url: "https://centring-data-in-african-ai.github.io/" # the base hostname & prot
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Organizers', link: '/organizers'}
-
+  - {name: 'Speakers', link: '/speakers'}
+   - {name: 'Lightning Talks', link: '/lightningtalks'}
 
 tagline: >
   A DLI 2025 Workshop
