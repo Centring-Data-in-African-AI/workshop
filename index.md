@@ -16,6 +16,7 @@ It will also provide a platform to discuss the current landscape of the data pip
 
 
 ##  Tentative Agenda
+
 | Welcome and opening remarks                             | 10 minutes                     |
 |---------------------------------------------------------|--------------------------------|
 | Part 1: Socio-technical Data Opportunities & Challenges |                                |
