@@ -3,6 +3,8 @@ layout: page
 title: Lightning Talks Session
 permalink: /lightningtalks/
 ---
+
+
 ### **THEME 1: Socio-technical Challenges & Opportunities**
 
 **Focus:** People, systems, ethics, governance, community, labor.  
