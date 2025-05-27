@@ -3,33 +3,36 @@ layout: page
 title: Lightning Talks Session
 permalink: /lightningtalks/
 ---
-<div>
-<!-- Nice blue button -->
-<a href="https://docs.google.com/forms/d/your-form-id-here"
-   target="_blank"           
-   style="
-     display: inline-block;
-     background: #1e6c93;
-     color: #fff;
-     font-family: system-ui, sans-serif;
-     font-size: 1rem;
-     font-weight: 600;
-     padding: 0.75rem 1.5rem;
-     border-radius: 0.5rem;
-     text-decoration: none;
-     box-shadow: 0 3px 8px rgba(0,0,0,.15);
-     transition: background .2s ease, transform .2s ease;
-   "
-   onmouseover="this.style.background='#275f7e'"
-   onmouseout="this.style.background='#1e6c93'"
-   onmousedown="this.style.transform='translateY(1px)'"
-   onmouseup="this.style.transform='translateY(0)'"
->
-  Apply for ligthning talk
+
+<style>
+.button-blue{
+  display:inline-block;
+  background:#1e6c93;
+  color:#ffffff !important;      /* keep text white even in dark mode */
+  font-family:system-ui,sans-serif;
+  font-size:1rem;
+  font-weight:600;
+  padding:0.75rem 1.5rem;
+  border-radius:0.5rem;
+  text-decoration:none;
+  box-shadow:0 3px 8px rgba(0,0,0,.15);
+  transition:background .2s ease,transform .2s ease;
+}
+.button-blue:hover{              /* subtle hover */
+  background:#155274;
+  transform:translateY(-2px);
+}
+.button-blue:active{             /* click “press” effect */
+  transform:translateY(0);
+}
+</style>
+
+<!-- Paste this button wherever you need it -->
+<a class="button-blue"
+   href="https://docs.google.com/forms/d/your-form-id-here"
+   target="_blank" rel="noopener">
+  Fill out the form
 </a>
-</div>
-
-
 
 ### **THEME 1: Socio-technical Challenges & Opportunities**
 
