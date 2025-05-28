@@ -38,6 +38,8 @@ permalink: /lightningtalks/
 </div>
 <br> -->
 
+> Submissions opening soon. Come back on 4 June
+
 ### **THEME 1: Socio-technical Challenges & Opportunities**
 
 **Focus:** People, systems, ethics, governance, community, labor.  
