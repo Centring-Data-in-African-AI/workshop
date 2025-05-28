@@ -38,7 +38,8 @@ permalink: /lightningtalks/
 </div>
 <br> -->
 
-> Submissions opening soon. Come back on 4 June
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
 
 ### **THEME 1: Socio-technical Challenges & Opportunities**
 
