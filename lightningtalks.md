@@ -26,6 +26,19 @@ permalink: /lightningtalks/
   transform:translateY(0);
 }
 .center { text-align:center; }
+
+
+/* simple banner that stretches full width */
+.announcement{
+  background:#fff8db;           /* soft yellow highlight */
+  color:#333333;
+  text-align:center;
+  font-family:system-ui,sans-serif;
+  font-size:1rem;
+  font-weight:600;
+  padding:0.75rem 1rem;
+  border-bottom:1px solid #e2e2e2;
+} 
 </style>
 
 <!-- Paste this button wherever you need it
@@ -38,8 +51,9 @@ permalink: /lightningtalks/
 </div>
 <br> -->
 
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+<div class="announcement">
+  Submissions opening soon. <strong>Come back on&nbsp;4 June</strong>
+</div>
 
 ### **THEME 1: Socio-technical Challenges & Opportunities**
 
