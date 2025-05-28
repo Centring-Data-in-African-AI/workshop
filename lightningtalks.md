@@ -119,7 +119,6 @@ This theme is about the *hands-on, technical realities* of working with African 
 4. **Data – Product Pipeline**  
    * How startups turn raw data into usable products  
    * Balancing open-source contributions with monetisation  
-5. **Model – Data Fit**
 
    
 
