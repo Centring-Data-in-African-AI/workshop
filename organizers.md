@@ -86,6 +86,14 @@ The organising team for this workshop has rich and varied collective experience 
 </div>
 
 
+
+<!-- Org 7 -->
+<div class="speaker-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/chris emezue.jpg" alt="Chris Emezue" />
+    <div class="speaker-name"> Thapelo Andrew Sindane</div>
+    <div class="speaker-affil">PhD Candidate Computer Science, University of Pretoria</div>
+</div>
+
 </div>
 </div>
 
