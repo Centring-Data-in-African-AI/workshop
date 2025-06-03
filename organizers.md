@@ -15,12 +15,13 @@ The organising team for this workshop has rich and varied collective experience 
   }
 
   /* --- each “row” is a flex container on its own --- */
-  .speaker-row {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    margin-top: 2rem;
-  }
+.speaker-row {
+  display: flex;
+  flex-direction: row;      /* horizontal by default */
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
 
   /* --- individual card styling (same as before) --- */
   .speaker-card {
@@ -54,6 +55,32 @@ The organising team for this workshop has rich and varied collective experience 
     font-size: .9rem;
     margin-bottom: 1.25rem;
   }
+
+
+@media (max-width: 600px) {
+  /* Stack each row’s cards vertically */
+  .speaker-row {
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  /* Allow each card to expand full‐width on mobile */
+  .speaker-card {
+    width: 100%;
+    max-width: 360px;    /* optional cap */
+    margin: 0 auto;
+  }
+
+  /* Let the image scale naturally */
+  .speaker-card img {
+    height: auto;
+    aspect-ratio: 4/5;
+  }
+}
+
+
+
 </style>
 
 <div class="speaker-section">
