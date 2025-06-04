@@ -4,4 +4,4 @@ title: Speakers
 permalink: /speakers/
 ---
 
-Here are the wonderful speakers
+Stay tuned, we will be populating this page with our wonderful speakers soon.
