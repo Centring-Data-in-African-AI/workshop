@@ -1,3 +1,22 @@
+<style>
+/* footer.css (or wherever your styles live) */
+.footer .funding {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.footer .funding__text {
+  font-weight: 500;
+  font-size: 0.95rem;   /* tweak if needed */
+}
+
+.footer .funding__logo {
+  max-width: 200px;     /* scale to suit */
+  height: auto;
+  margin-top: 0.5rem;
+}
+</style>
+
 <footer class="footer">
   <div class="container">
     <nav class="social">
@@ -17,6 +36,21 @@
         </a>
       {% endif %}
     </nav>
+
+
+   <!----- NEW funding-acknowledgement block --->
+   <div class="funding">
+     <p class="funding__text">
+       We are grateful for the funding support of
+     </p>
+     <!-- Replace the src with the actual path to your funder’s logo -->
+     <img
+       src="{{ site.url }}{{ site.baseurl }}/assets/img/dair-logo.jpeg"
+       alt="DAIR logo"
+       class="funding__logo"
+     >
+   </div>
+
     <span>&copy; {{ site.time | date: '%Y' }} {{ site.title | escape }}. All rights reserved.</span>
   </div>
 </footer>
