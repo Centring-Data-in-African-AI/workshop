@@ -8,7 +8,7 @@ permalink: /agenda/
 <!-- <h2 style="color: #1e6c93; text-align: center;">Workshop Agenda</h2>
  -->
 
-| Workshop Agenda                             | Duration              |
+| Workshop Item                             | Duration              |
 |---------------------------------------------------------|--------------------------------|
 | Welcome and opening remarks                             | 10 minutes                     |
 | Part 1: Socio-technical Data Opportunities & Challenges |                                |

@@ -56,5 +56,6 @@ It will also provide a platform to discuss the current landscape of the data pip
   <li><a href="/organisers">meet the amazing organisers/a></li>
 </ul>
 
+
 <br>
 For questions, issues, feedback, etc, please do not hesitate to reach us via email at [centring-data-in-african-ai@googlegroups.com](mailto:centring-data-in-african-ai@googlegroups.com)
