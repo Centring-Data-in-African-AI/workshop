@@ -5,7 +5,6 @@ permalink: /agenda/
 ---
 
 
-
 <!-- <h2 style="color: #1e6c93; text-align: center;">Workshop Agenda</h2>
  -->
 
