@@ -41,84 +41,45 @@ permalink: /lightningtalks/
 } 
 </style>
 
-<!-- Paste this button wherever you need it
 <div class="center">
 <a class="button-blue"
-   href="https://forms.gle/b7puQJswxM2dLcMe7"
+   href="https://forms.gle/qYTvdQVzNjXbYTQR8"
    target="_blank" rel="noopener">
   Apply for lightning talks
 </a>
 </div>
-<br> -->
 
-<div class="announcement">
+<!-- <div class="announcement">
   Submissions opening soon. Come back on&nbsp;4 June
-</div>
+</div> -->
 <br>
-### **THEME 1: Socio-technical Challenges & Opportunities**
 
-**Focus:** People, systems, ethics, governance, community, labor.  
-This theme centers on the *human, political, and institutional layers* behind African data work.
+The <i>Centring Data in African AI</i> workshop examines the challenges and opportunities surrounding data in African AI through both technical and socio-technical lenses. In particular, it highlights the importance of African data as a means for local communities to assert greater agency and ownership within the AI value chain.
 
-#### **Key Areas to Cover:**
+The lightning talk session aims to highlight a variety of ground-level viewpoints from individuals, researchers, practitioners, community organizers, and other contributors across the African continent. Accepted talks will showcase practical experiences, innovative methodologies, and ongoing efforts that emphasize data as a foundational resource for AI development.
 
-1. **Human Labor & Compensation**  
-   * Realities of being a data labeler or annotator in Africa  
-   * Payment, working conditions, invisible labor  
-   * Local vs global compensation standards  
-2. **Community-Driven Data Collection**  
-   * Building datasets with/for communities  
-   * Who defines what gets collected? Who gets to say how the data is being used? Who gets to benefit? Whose voice is missing?  
-   * Examples of community annotation, feedback loops (i.e., bottom-up input, not only top-down instruction)  
-3. **Data Governance & Ownership**  
-   * Who owns the data? What happens post-collection?  
-   * Licensing, consent, power asymmetries  
-   * Global tech interests vs data ownership (or community sovereignty?)  
-   * Is open source doing more harm than good?  
-   * How are data licenses / policies enforced? Is there opportunity for recourse if violations occur?   
-4. **Data and Cultural sovereignty**  
-   *   
-5. **Policy, Funding & Ethics**  
-   * What funders do/don’t understand about ground realities  
-   * Challenges in getting ethical review or funding for data collection  
-   * African policymaker blindspots or missed opportunities  
-   * Policy perspectives that balance investment attractiveness / funding for innovation against community benefits and interests  
-6. **Tooling & Infrastructure**  
-   * Transparency into data collection and annotation processes
+We encourage you to apply for a lightning talk session at this workshop. Some of our focus areas include:
 
-#### **Example Talk Titles:**
+- Human Labour & Fair Compensation in Data Work
+- Community-Led Approaches to Data Collection
+- Governance, Access, and Ownership of Data
+- Cultural Sovereignty and Data Representation
+- Ethical, Policy, and Funding Dimensions of Data
+- Tools and Infrastructure for Data Workflows
+- Evaluating and Measuring Dataset Quality
+- Designing and Managing Data Annotation Pipelines
+- Synthetic Data Curation and Generation
+- Challenges of Building Open-Source Data Tools
+- Bridging the Gap Between Data and Product Design
+- Ensuring Model and Dataset Alignment ("Model–Data Fit")
 
-* “We collect data but don’t own it?”  
-* “Labeling 10,000 samples for $40 – the hidden cost of African AI”  
-* “From WhatsApp to corpus: How my community built a speech dataset”  
-* “Why ethical review boards in Africa are failing AI data workers”  
-* “How we navigated data licensing for XYZ corpus”
+For questions, issues, feedback, etc, please do not hesitate to reach us via email at [centring-data-in-african-ai@googlegroups.com](mailto:centring-data-in-african-ai@googlegroups.com)
 
-### **THEME 2: Technical Challenges & Opportunities**
 
-**Focus:** Processes, pipelines, quality, models, tools, data-centric engineering.  
-This theme is about the *hands-on, technical realities* of working with African data.
-
-#### **Key Areas to Cover:**
-
-1. **Dataset Measurement & Evaluation**  
-   * Why should we measure datasets and what should we measure?  
-   * How do we measure coverage, bias, quality?  
-   * What makes a good dataset about African Information? What context is necessary?   
-   * How do we best record African data?  
-   * \*Creative evaluation methods when test sets are lacking   
-2. **Data Pipelines & Annotation Processes**  
-   * Tools, standards, annotation frameworks used (or built from scratch)  
-   * Pipeline innovations for low-resource or multilingual scenarios  
-   * QA processes, checks, and what “good enough” looks like  
-   * Annotation challenges  
-     1. What data annotation software do people use? What are the challenges?   
-3. **Open Source Constraints**  
-   * Limits of current open datasets or disadvantages of open-source  
-   * What’s missing? What are the blind spots?  
-4. **Data – Product Pipeline**  
-   * How startups turn raw data into usable products  
-   * Balancing open-source contributions with monetisation  
-
-   
-
+<div class="center">
+<a class="button-blue"
+   href="https://forms.gle/qYTvdQVzNjXbYTQR8"
+   target="_blank" rel="noopener">
+  Apply for lightning talks
+</a>
+</div>
