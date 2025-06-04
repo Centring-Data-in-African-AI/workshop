@@ -17,22 +17,43 @@ It will also provide a platform to discuss the current landscape of the data pip
 <br>
 For questions, issues, feedback, etc, please do not hesitate to reach us via email at [centring-data-in-african-ai@googlegroups.com](mailto:centring-data-in-african-ai@googlegroups.com)
 
-<h2 style="color: #1e6c93; text-align: center;">Tentative Agenda</h2>
+<style>
+/*  Pointer-style bullet links (add to your main CSS)  */
+.pointer-links {
+  list-style: none;      /* remove default bullets */
+  padding: 0;
+  margin: 1.25rem 0;
+}
+
+.pointer-links li {
+  margin: 0.5rem 0;
+}
+
+.pointer-links li::before {
+  content: "☞";          /* pointing-hand glyph */
+  color: #1e6c93;        /* brand colour */
+  font-size: 1rem;       /* scale icon */
+  margin-right: 0.5rem;  /* space before link text */
+}
+
+.pointer-links a {
+  color: #1e6c93;        /* match icon colour */
+  text-decoration: none; /* cleaner default look */
+  font-weight: 500;
+}
+
+.pointer-links a:hover,
+.pointer-links a:focus {
+  text-decoration: underline;   /* interaction cue */
+}
 
 
-| Workshop Agenda                             | Duration              |
-|---------------------------------------------------------|--------------------------------|
-| Welcome and opening remarks                             | 10 minutes                     |
-| Part 1: Socio-technical Data Opportunities & Challenges |                                |
-| First keynote: Joan Kinyua                              | 30 minutes (including Q&A)     |
-| Lightning Talks 1                                       | 5 x 10 minute talks 50 minutes |
-| Breakout Session 1                                      | 40 minutes                     |
-| Feedback and Wrap-up of Socio-technical Track           | 20 minutes                     |
-| Break for lunch                                         | 60 minutes                     |
-| Part 2: Technical Data Opportunities & Challenges       |                                |
-| Second Keynote: Girmaw Abebe Tadesse                    | 30 minutes (including Q&A)     |
-| Lightning Talks 2                                       | 5 x 10 minute talks 50 minutes |
-| Breakout Session 2                                      | 40 minutes                     |
-| Panel Discussion (speakers TBC)                         | 50 minutes                     |
-| Workshop Wrap-up                                        | 10 minutes                     |
+</style>
+
+<!-- Fancy bullet-link list  -->
+<ul class="pointer-links">
+  <li><a href="">workshop agenda</a></li>
+  <li><a href="">go to lightning talks</a></li>
+  <li><a href="">see the speakers</a></li>
+</ul>
 
