@@ -14,8 +14,6 @@ By framing data as a foundational resource for AI development, the workshop aims
 
 It will also provide a platform to discuss the current landscape of the data pipeline, share openly available datasets and tools, and foster connections among researchers, practitioners, and other stakeholders. A final report will be published to document the insights, resources, and outcomes of the workshop.
 
-<br>
-For questions, issues, feedback, etc, please do not hesitate to reach us via email at [centring-data-in-african-ai@googlegroups.com](mailto:centring-data-in-african-ai@googlegroups.com)
 
 <style>
 /*  Pointer-style bullet links (add to your main CSS)  */
@@ -52,8 +50,11 @@ For questions, issues, feedback, etc, please do not hesitate to reach us via ema
 
 <!-- Fancy bullet-link list  -->
 <ul class="pointer-links">
-  <li><a href="">workshop agenda</a></li>
-  <li><a href="">go to lightning talks</a></li>
-  <li><a href="">see the speakers</a></li>
+  <li><a href="/agenda">workshop agenda</a></li>
+  <li><a href="/lightningtalks">go to lightning talks</a></li>
+  <li><a href="/speakers">see our impressive speaker lineup</a></li>
+  <li><a href="/organisers">meet the amazing organisers/a></li>
 </ul>
 
+<br>
+For questions, issues, feedback, etc, please do not hesitate to reach us via email at [centring-data-in-african-ai@googlegroups.com](mailto:centring-data-in-african-ai@googlegroups.com)
