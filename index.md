@@ -50,10 +50,10 @@ It will also provide a platform to discuss the current landscape of the data pip
 
 <!-- Fancy bullet-link list  -->
 <ul class="pointer-links">
-  <li><a href="/agenda">workshop agenda</a></li>
-  <li><a href="/lightningtalks">go to lightning talks</a></li>
-  <li><a href="/speakers">see our impressive speaker lineup</a></li>
-  <li><a href="/organisers">meet the amazing organisers/a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/agenda">workshop agenda</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/lightningtalks">go to lightning talks</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/speakers">see our impressive speaker lineup</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/organizers">meet the amazing organisers</a></li>
 </ul>
 
 
