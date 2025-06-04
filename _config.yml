@@ -21,6 +21,7 @@ url: "https://centring-data-in-african-ai.github.io/" # the base hostname & prot
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Organisers', link: '/organizers'}
+    - {name: 'Agenda', link: '/agenda'}
   - {name: 'Speakers', link: '/speakers'}
   - {name: 'LightningTalks', link: '/lightningtalks'}
 
