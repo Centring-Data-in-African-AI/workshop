@@ -27,14 +27,14 @@ permalink: /speakers/
 }
 
 .speaker-left {
-  flex: 0 0 220px;      /* fixed width for image + text */
+  flex: 0 0 300px;      /* fixed width for image + text */
   text-align: center;
   border-right: 1px solid #eee;
 }
 
 .speaker-left img {
   width: 100%;
-  height: 240px;
+  height: 300px;
   object-fit: cover;
   /* round the top‐left and bottom‐left corners */
   border-top-left-radius: 1rem;
@@ -102,7 +102,9 @@ agriculture, healthcare, biodiversity, and more. He collaborates with a diverse 
 partners, including governments, non-profits, academic institutions, and startups. He holds 
 over 20 U.S. patents, and his work has received Best Paper Awards at conferences, been 
 published in leading journals such as Nature, and featured by media outlets including the 
-BBC. He is an active program committee member and speaker at global AI conferences, 
+BBC. 
+
+He is an active program committee member and speaker at global AI conferences, 
 including ICLR 2023 (Kigali), ICLR 2024 (Vienna), IJCAI 2024 (Jeju), and ICCV 2024 (Paris).
 He previously worked as a Staff Research Scientist at IBM Research Africa and as a 
 Postdoctoral Researcher at the University of Oxford. He earned his PhD from Queen Mary 
