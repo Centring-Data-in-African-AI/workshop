@@ -62,9 +62,6 @@ permalink: /speakers/
 
 .speaker-bio {
   margin: 0;
-  font-size: 0.95rem;
-  line-height: 1.6;
-  color: #333;
   text-align: left;
 }
 
