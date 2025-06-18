@@ -90,15 +90,23 @@ permalink: /speakers/
   <!-- Speaker #1 -->
   <div class="speaker-card">
     <div class="speaker-left">
-      <img src="…/img/speaker1.jpg" alt="Speaker One">
-      <div class="speaker-name">Speaker One</div>
-      <div class="speaker-affil">Chief Data Scientist, Acme AI</div>
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/girmaw.png" alt="Dr. Girmaw Abebe Tadesse">
+      <div class="speaker-name">Dr. Girmaw Abebe Tadesse</div>
+      <div class="speaker-affil">Principal Research Scientist and Manager at Microsoft AI for Good Lab</div>
     </div>
     <div class="speaker-right">
       <p class="speaker-bio">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-        Donec a semper urna, vitae luctus magna. Praesent tempor 
-        sapien nec risus scelerisque, a feugiat libero pretium.
+        Dr. Girmaw Abebe Tadesse is a Principal Research Scientist and Manager at Microsoft's AI 
+for Good Research Lab, where he leads the Africa team in developing AI solutions for 
+agriculture, healthcare, biodiversity, and more. He collaborates with a diverse range of 
+partners, including governments, non-profits, academic institutions, and startups. He holds 
+over 20 U.S. patents, and his work has received Best Paper Awards at conferences, been 
+published in leading journals such as Nature, and featured by media outlets including the 
+BBC. He is an active program committee member and speaker at global AI conferences, 
+including ICLR 2023 (Kigali), ICLR 2024 (Vienna), IJCAI 2024 (Jeju), and ICCV 2024 (Paris).
+He previously worked as a Staff Research Scientist at IBM Research Africa and as a 
+Postdoctoral Researcher at the University of Oxford. He earned his PhD from Queen Mary 
+University of London through the Erasmus Mundus Double Doctorate Program.
       </p>
     </div>
   </div>
