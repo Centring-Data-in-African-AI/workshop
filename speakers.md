@@ -114,15 +114,13 @@ University of London through the Erasmus Mundus Double Doctorate Program.
   <!-- Speaker #2 -->
   <div class="speaker-card">
     <div class="speaker-left">
-      <img src="…/img/speaker2.jpg" alt="Speaker Two">
-      <div class="speaker-name">Speaker Two</div>
-      <div class="speaker-affil">Director of Research, Globex Labs</div>
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/dla.jpg" alt="Data Labelers Association">
+      <div class="speaker-name">Data Labelers Association</div>
+      <!-- <div class="speaker-affil">Director of Research, Globex Labs</div> -->
     </div>
     <div class="speaker-right">
       <p class="speaker-bio">
-        Vivamus euismod, justo non dignissim luctus, ex erat commodo 
-        velit, ut suscipit enim lectus non purus. Sed vitae risus at 
-        nunc ultrices interdum.
+        The Data Labelers Association (DLA) is a worker-led organization formed by data annotators in Kenya in response to poor working conditions and systemic neglect. DLA advocates for labor rights, better working conditions, and increased recognition of the critical role data workers play in the AI industry. Beyond organizing, DLA addresses the widespread knowledge gap about annotation work, highlighting its challenges and the toxic environments many workers face. We engage in policy and legislative spaces to shape just and effective frameworks, serving as a vital bridge between workers, government, tech companies, and legislators. As AI transforms global labor markets, DLA is claiming space to ensure data workers help shape the industry's future.
       </p>
     </div>
   </div>
