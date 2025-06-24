@@ -53,7 +53,10 @@ permalink: /lightningtalks/
   Submissions opening soon. Come back on&nbsp;4 June
 </div> -->
 <br>
-
+<div style="background:#e6f7ff; color:#155a8a; border-left:4px solid #1890ff; padding:0.75em 1em; margin:1em 0; font-weight:500;">
+  <span style="font-size:1.1em;">⏰ Deadline extended! You now have until <b>July 4th, 2025</b> to apply.</span>
+</div>
+<br>
 The <i>Centring Data in African AI</i> workshop examines the challenges and opportunities surrounding data in African AI through both technical and socio-technical lenses. In particular, it highlights the importance of African data as a means for local communities to assert greater agency and ownership within the AI value chain.
 
 The lightning talk session aims to highlight a variety of ground-level viewpoints from individuals, researchers, practitioners, community organizers, and other contributors across the African continent. Accepted talks will showcase practical experiences, innovative methodologies, and ongoing efforts that emphasize data as a foundational resource for AI development.
@@ -78,9 +81,7 @@ For questions, issues, feedback, etc, please do not hesitate to reach us via ema
 <br>
 **Application deadline: <s>June 27th, 2025</s> July 4th, 2025, 23:59 CET**
 
-<div style="background:#e6f7ff; color:#155a8a; border-left:4px solid #1890ff; padding:0.75em 1em; margin:1em 0; font-weight:500;">
-  <span style="font-size:1.1em;">⏰ Deadline extended! You now have until <b>July 4th, 2025</b> to apply.</span>
-</div>
+
 
 
 <div class="center">
