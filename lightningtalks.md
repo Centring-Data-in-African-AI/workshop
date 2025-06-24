@@ -76,7 +76,11 @@ We encourage you to apply for a lightning talk session at this workshop. Some of
 For questions, issues, feedback, etc, please do not hesitate to reach us via email at [centring-data-in-african-ai@googlegroups.com](mailto:centring-data-in-african-ai@googlegroups.com)
 
 <br>
-**Application deadline: June 27th, 2025, 23:59 CET**
+**Application deadline: <s>June 27th, 2025</s> July 4th, 2025, 23:59 CET**
+
+<div style="background:#e6f7ff; color:#155a8a; border-left:4px solid #1890ff; padding:0.75em 1em; margin:1em 0; font-weight:500;">
+  <span style="font-size:1.1em;">⏰ Deadline extended! You now have until <b>July 4th, 2025</b> to apply.</span>
+</div>
 
 
 <div class="center">
