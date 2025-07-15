@@ -144,3 +144,21 @@ The organising team for this workshop has rich and varied collective experience 
   </div>
 
 </div>
+
+<!-- ===== Acknowledgment Section ===== -->
+<div style="margin-top: 4rem; text-align: center;">
+  <h2 style="margin-bottom: 2rem; color: #333; font-family: system-ui, sans-serif;">Special Acknowledgment</h2>
+  
+  <div style="display: flex; justify-content: center; margin-top: 2rem;">
+    <div class="speaker-card" style="margin: 0;">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Shaimaa-Lazem-lbw-chair.jpg" alt="Prof Shaimaa" style="height: 240px; object-fit: cover;" />
+      <div class="speaker-name">Prof Shaimaa Lazem</div>
+      <!-- <div class="speaker-affil">[Affiliation to be added]</div> -->
+      <div style="padding: 0 1rem 1.5rem; font-size: 0.9rem; line-height: 1.5; color: #666; text-align: left;">
+      Shaimaa Lazem is an Associate Research Professor at the City of Scientific Research and Technological Applications (SRTA-City), Egypt. Her PhD in Computer Science from Virginia Tech, USA, fueled her passion for understanding how technology design can transcend Western perspectives. Dr. Lazem champions the development of inclusive and impactful technologies. She leverages participatory design methods and critical approaches like decolonial and feminist theories to ensure technology serves everyone effectively. She is working on developing human-centered approaches to design Natural Language Processing (NLP) applications in Africa with support from Google 2020 Award for Inclusion Research and Google AI 2021 Award. She was Recognized as <a href="https://www.acm.org/articles/people-of-acm/2023/shaimaa-lazem" target = "_blank"> People of ACM in 2023</a> and a Leaders-in-Innovation Fellow with the Royal Academy of Engineering in London since 2018.
+      </div>
+    </div>
+  </div>
+</div>
+
+
