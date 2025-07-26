@@ -41,13 +41,13 @@ permalink: /lightningtalks/
 } 
 </style>
 
-<div class="center">
+<!-- <div class="center">
 <a class="button-blue"
    href="https://forms.gle/qYTvdQVzNjXbYTQR8"
    target="_blank" rel="noopener">
   Apply for lightning talks
 </a>
-</div>
+</div> -->
 
 <!-- <div class="announcement">
   Submissions opening soon. Come back on&nbsp;4 June
@@ -84,10 +84,10 @@ For questions, issues, feedback, etc, please do not hesitate to reach us via ema
 
 
 
-<div class="center">
+<!-- <div class="center">
 <a class="button-blue"
    href="https://forms.gle/qYTvdQVzNjXbYTQR8"
    target="_blank" rel="noopener">
   Apply for lightning talks
 </a>
-</div>
+</div> -->
