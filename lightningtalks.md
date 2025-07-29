@@ -62,12 +62,12 @@ permalink: /lightningtalks/
 
 <div style="margin: 2rem 0; overflow-x: auto;">
   <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <thead>
+    <!-- <thead>
       <tr style="background: linear-gradient(135deg, #1e6c93 0%, #155274 100%); color: white;">
         <th style="padding: 1rem; text-align: left; font-weight: 600;">Name</th>
         <th style="padding: 1rem; text-align: left; font-weight: 600;">Talk Title</th>
       </tr>
-    </thead>
+    </thead> -->
     <tbody>
       <tr style="border-bottom: 1px solid #f0f0f0;">
         <td style="padding: 1rem; font-weight: 500; color: #333;">Kato Steven Mubiru</td>
