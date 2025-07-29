@@ -61,11 +61,11 @@ permalink: /lightningtalks/
 ## Accepted Lightning Talks
 
 <div style="margin: 2rem 0; overflow-x: auto;">
-  <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); font-family: system-ui, sans-serif;">
+  <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <thead>
       <tr style="background: linear-gradient(135deg, #1e6c93 0%, #155274 100%); color: white;">
-        <th style="padding: 1rem; text-align: left; font-weight: 600; border-bottom: 2px solid #e0e0e0;">Presenter</th>
-        <th style="padding: 1rem; text-align: left; font-weight: 600; border-bottom: 2px solid #e0e0e0;">Lightning Talk Title</th>
+        <th style="padding: 1rem; text-align: left; font-weight: 600;">Name</th>
+        <th style="padding: 1rem; text-align: left; font-weight: 600;">Talk Title</th>
       </tr>
     </thead>
     <tbody>
@@ -115,6 +115,7 @@ permalink: /lightningtalks/
 
 
 <br>
+## About
 The <i>Centring Data in African AI</i> workshop examines the challenges and opportunities surrounding data in African AI through both technical and socio-technical lenses. In particular, it highlights the importance of African data as a means for local communities to assert greater agency and ownership within the AI value chain.
 
 The lightning talk session aims to highlight a variety of ground-level viewpoints from individuals, researchers, practitioners, community organizers, and other contributors across the African continent. Accepted talks will showcase practical experiences, innovative methodologies, and ongoing efforts that emphasize data as a foundational resource for AI development.
