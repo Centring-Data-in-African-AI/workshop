@@ -41,26 +41,33 @@ permalink: /lightningtalks/
 } 
 </style>
 
-<!-- <div class="center">
-<a class="button-blue"
-   href="https://forms.gle/qYTvdQVzNjXbYTQR8"
-   target="_blank" rel="noopener">
-  Apply for lightning talks
-</a>
-</div> -->
 
-<!-- <div class="announcement">
-  Submissions opening soon. Come back on&nbsp;4 June
-</div> -->
-<br>
-<!-- <div style="background:#e6f7ff; color:#155a8a; border-left:4px solid #1890ff; padding:0.75em 1em; margin:1em 0; font-weight:500;">
-  <span>⏰ Decision notifications will be sent out by July 31st latest.</span>
-</div> -->
+
+The <i>Centring Data in African AI</i> workshop examines the challenges and opportunities surrounding data in African AI through both technical and socio-technical lenses. In particular, it highlights the importance of African data as a means for local communities to assert greater agency and ownership within the AI value chain.
+
+The lightning talk session aims to highlight a variety of ground-level viewpoints from individuals, researchers, practitioners, community organizers, and other contributors across the African continent. Accepted talks will showcase practical experiences, innovative methodologies, and ongoing efforts that emphasize data as a foundational resource for AI development.
+
+We encourage you to apply for a lightning talk session at this workshop. Some of our focus areas include:
+
+- Human Labour & Fair Compensation in Data Work
+- Community-Led Approaches to Data Collection
+- Governance, Access, and Ownership of Data
+- Cultural Sovereignty and Data Representation
+- Ethical, Policy, and Funding Dimensions of Data
+- Tools and Infrastructure for Data Workflows
+- Evaluating and Measuring Dataset Quality
+- Designing and Managing Data Annotation Pipelines
+- Synthetic Data Curation and Generation
+- Challenges of Building Open-Source Data Tools
+- Bridging the Gap Between Data and Product Design
+- Ensuring Model and Dataset Alignment ("Model–Data Fit")
+
+
 
 ## Accepted Lightning Talks
 
 <div style="margin: 2rem 0; overflow-x: auto;">
-  <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"> -->
+  <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"> 
 
 <thead>
     <tr style="background: linear-gradient(135deg, #1e6c93 0%, #155274 100%); color: white;">
@@ -114,41 +121,5 @@ permalink: /lightningtalks/
 </div> 
 
 
-<br>
-## About
-The <i>Centring Data in African AI</i> workshop examines the challenges and opportunities surrounding data in African AI through both technical and socio-technical lenses. In particular, it highlights the importance of African data as a means for local communities to assert greater agency and ownership within the AI value chain.
-
-The lightning talk session aims to highlight a variety of ground-level viewpoints from individuals, researchers, practitioners, community organizers, and other contributors across the African continent. Accepted talks will showcase practical experiences, innovative methodologies, and ongoing efforts that emphasize data as a foundational resource for AI development.
-
-We encourage you to apply for a lightning talk session at this workshop. Some of our focus areas include:
-
-- Human Labour & Fair Compensation in Data Work
-- Community-Led Approaches to Data Collection
-- Governance, Access, and Ownership of Data
-- Cultural Sovereignty and Data Representation
-- Ethical, Policy, and Funding Dimensions of Data
-- Tools and Infrastructure for Data Workflows
-- Evaluating and Measuring Dataset Quality
-- Designing and Managing Data Annotation Pipelines
-- Synthetic Data Curation and Generation
-- Challenges of Building Open-Source Data Tools
-- Bridging the Gap Between Data and Product Design
-- Ensuring Model and Dataset Alignment ("Model–Data Fit")
-
 For questions, issues, feedback, etc, please do not hesitate to reach us via email at [centring-data-in-african-ai@googlegroups.com](mailto:centring-data-in-african-ai@googlegroups.com)
 
-<!-- <br>
-**Application deadline: <s>June 27th, 2025</s> July 4th, 2025, 23:59 CET**
- -->
-
-
-
-
-
-<!-- <div class="center">
-<a class="button-blue"
-   href="https://forms.gle/qYTvdQVzNjXbYTQR8"
-   target="_blank" rel="noopener">
-  Apply for lightning talks
-</a>
-</div> -->
