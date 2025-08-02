@@ -58,9 +58,6 @@ permalink: /lightningtalks/
 </div> -->
 
 ## Accepted Lightning Talks
-<!-- <div style="background:#e6f7ff; color:#155a8a; border-left:4px solid #1890ff; padding:0.75em 1em; margin:1em 0; font-weight:500;">
-  <span>Congratulations on the accepted lightning talks. Please we need you to confirm, before July 30th, that you will be <strong>physically</strong> attending the Indaba in Kigali, and that <strong>you accept</strong> to give your lightning talk during our workshop. Confirm by sending an email to <a href="mailto:centring-data-in-african-ai@googlegroups.com">centring-data-in-african-ai@googlegroups.com</a></span>
-</div> -->
 
 <div style="margin: 2rem 0; overflow-x: auto;">
   <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"> -->
