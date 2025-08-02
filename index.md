@@ -56,10 +56,10 @@ It will also provide a platform to discuss the current landscape of the data pip
   <li><a href="{{ site.url }}{{ site.baseurl }}/organizers">meet the amazing organisers</a></li>
 </ul>
 
-<div style="background:#fff8db; color:#333; border-left:6px solid #1e6c93; padding:1em 1.25em; margin:1.5em 0; border-radius:0.5em; font-weight:500; font-size:1.08em; box-shadow:0 2px 8px rgba(30,108,147,0.07); display:flex; align-items:flex-start; gap:0.75em;">
+<div style="background:#fff8db; color:#333; border-left:6px solid #1e6c93; padding:1em 1.25em; margin:1.5em 0; border-radius:0.5em; box-shadow:0 2px 8px rgba(30,108,147,0.07); display:flex; align-items:flex-start; gap:0.75em;">
   <span style="font-size:1.5em; line-height:1; margin-right:0.5em;">🛈</span>
   <span>
-    <strong>Important:</strong> Workshop attendance is only possible for registered Indaba attendees. That is, only those accepted to attend the DLI 2025 can physically attend the workshop.<br>
+    Workshop attendance is only possible for registered Indaba attendees. That is, only those accepted to attend the DLI 2025 can physically attend the workshop.<br>
     If you were not accepted, you can still join us virtually. <a href="https://deeplearningindaba.com/2025/" style="color:#1e6c93; text-decoration:underline;">Learn more here</a>.
   </span>
 </div>
