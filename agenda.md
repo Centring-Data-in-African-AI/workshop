@@ -20,7 +20,7 @@ permalink: /agenda/
 | Part 2: Technical Data Opportunities & Challenges       |                                |
 | Second Keynote: Girmaw Abebe Tadesse                    | 30 minutes (including Q&A)     |
 | Lightning Talks 2                                       | 5 x 10 minute talks 50 minutes |
-| Breakout Session 2                                      | 40 minutes                     |
-| Panel Discussion (speakers TBC)                         | 50 minutes                     |
+| Breakout Session 2                                      | 50 minutes                     |
+| Panel Discussion (speakers TBC)                         | 40 minutes                     |
 | Workshop Wrap-up                                        | 10 minutes                     |
 
