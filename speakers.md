@@ -113,13 +113,13 @@ University of London through the Erasmus Mundus Double Doctorate Program.
   <!-- Speaker #2 -->
   <div class="speaker-card">
     <div class="speaker-left">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/dla.jpg" alt="Data Labelers Association">
-      <div class="speaker-name">Data Labelers Association</div>
-      <!-- <div class="speaker-affil">Director of Research, Globex Labs</div> -->
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/joan.png" alt="Data Labelers Association">
+      <div class="speaker-name">Joan Kinyua</div>
+      <div class="speaker-affil">President, Data Labelers Association</div>
     </div>
     <div class="speaker-right">
       <p class="speaker-bio">
-        The Data Labelers Association (DLA) is a worker-led organization formed by data annotators in Kenya in response to poor working conditions and systemic neglect. DLA advocates for labor rights, better working conditions, and increased recognition of the critical role data workers play in the AI industry. Beyond organizing, DLA addresses the widespread knowledge gap about annotation work, highlighting its challenges and the toxic environments many workers face. We engage in policy and legislative spaces to shape just and effective frameworks, serving as a vital bridge between workers, government, tech companies, and legislators. As AI transforms global labor markets, DLA is claiming space to ensure data workers help shape the industry's future.
+        Joan Kinyua is a Digital Rights Activist and the founding President of the Data Labelers Association of Kenya (DLA), a grassroots organization advocating for the rights and well-being of workers behind AI systems. She is committed to advancing fairness, transparency, and ethical practices in AI development. Through her work with DLA, Joan champions the protection of digital workers, pushes for inclusive and accountable AI policies, and brings visibility to the critical labor powering AI. By combining strategic advocacy and collective action, she ensures that marginalized voices shape the future of technology and labor justice. The Data Labelers Association (DLA) is a worker-led organization formed by data annotators in Kenya in response to poor working conditions and systemic neglect. DLA advocates for labor rights, better working conditions, and increased recognition of the critical role data workers play in the AI industry.
       </p>
     </div>
   </div>
