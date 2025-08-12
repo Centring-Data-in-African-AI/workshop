@@ -43,7 +43,7 @@ permalink: /lightningtalks/
 
 
 
-The <i>Centring Data in African AI</i> workshop examines the challenges and opportunities surrounding data in African AI through both technical and socio-technical lenses. The lightning talk session aims to highlight a variety of ground-level viewpoints from individuals, researchers, practitioners, community organizers, and other contributors across the African continent. A\
+The <i>Centring Data in African AI</i> workshop examines the challenges and opportunities surrounding data in African AI through both technical and socio-technical lenses. The lightning talk session aims to highlight a variety of ground-level viewpoints from individuals, researchers, practitioners, community organizers, and other contributors across the African continent.
 
 <!-- We encourage you to apply for a lightning talk session at this workshop. Some of our focus areas include:
 
