@@ -37,7 +37,7 @@ The organising team for this workshop has rich and varied collective experience 
 
   .organizer-card img {
     width: 100%;
-    height: 400px;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
     border-radius: 2rem 2rem 0 0;
   }
@@ -77,7 +77,7 @@ The organising team for this workshop has rich and varied collective experience 
   }
 
   .organizer-card.special img {
-    height: 450px;
+    aspect-ratio: 1 / 1;
   }
 
   .organizer-card.special .organizer-info {
@@ -96,7 +96,7 @@ The organising team for this workshop has rich and varied collective experience 
     }
     
     .organizer-card img {
-      height: 300px;
+      aspect-ratio: 1 / 1;
       border-radius: 1.5rem 1.5rem 0 0;
     }
     
@@ -115,19 +115,11 @@ The organising team for this workshop has rich and varied collective experience 
     .organizer-bio {
       font-size: 0.95rem;
     }
-    
-    .organizer-card.special img {
-      height: 350px;
-    }
   }
 
   @media (max-width: 480px) {
     .organizer-card img {
-      height: 250px;
-    }
-    
-    .organizer-card.special img {
-      height: 300px;
+      aspect-ratio: 1 / 1;
     }
     
     .organizer-info {
