@@ -14,15 +14,15 @@ permalink: /agenda/
 </div>
 
 
-| Agenda                        | Time          |
-|-------------------------------|---------------|
-| Welcome and opening remarks   | 09:00 - 09:10 |
-| Keynote: Joan Kinyua          | 09:10 - 09:40 |
-| Lightning Talks Part 1        | 09:40 - 10:30 |
-| A unique interactive session  | 10:30 - 11:30 |
-| Coffee break                  | 11:30 - 12:00 |
-| Lightning Talks Part 2        | 12:00 - 12:50 |
-| Break for lunch               | 13:00 - 14:30 |
-| Keynote: Girmaw Abebe Tadesse | 14:30 - 15:00 |
-| Panel Session                 | 15:00 - 15:40 |
-| Workshop Wrap-up              | 15:40 - 16:00 |
+| Agenda                                                 | Time          |
+|--------------------------------------------------------|---------------|
+| Welcome and opening remarks                            | 09:00 - 09:10 |
+| Keynote: Joan Kinyua                                   | 09:10 - 09:40 |
+| Lightning Talks 1                                      | 09:40 - 10:30 |
+| A unique immersive session. We promise you'll love it. | 10:30 - 11:30 |
+| Coffee break                                           | 11:30 - 12:00 |
+| Lightning Talks 2                                      | 12:00 - 13:00 |
+| Break for lunch                                        | 13:00 - 14:30 |
+| Keynote: Girmaw Abebe Tadesse                          | 14:30 - 15:00 |
+| Panel Session                                          | 15:00 - 15:50 |
+| Workshop Wrap-up                                       | 15:50 - 16:00 |

@@ -125,3 +125,145 @@ University of London through the Erasmus Mundus Double Doctorate Program.
   </div>
 
 </section>
+
+<!-- =====  Panelists section  ===== -->
+<style>
+  /* --- top‐level container --- */
+  .panelists-section {
+    text-align: center;
+    font-family: system-ui, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem 1rem;
+  }
+
+  /* --- individual panelist card styling --- */
+  .panelist-card {
+    background: #fff;
+    border-radius: 2rem;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, .08);
+    transition: transform .3s ease, box-shadow .3s ease;
+    margin-bottom: 3rem;
+    overflow: hidden;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .panelist-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 16px 32px rgba(0, 0, 0, .12);
+  }
+
+  .panelist-card img {
+    width: 100%;
+    max-width: 500px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 2rem 2rem 0 0;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .panelist-info {
+    padding: 2rem;
+    text-align: center;
+  }
+
+  .panelist-name {
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin: 0 0 0.75rem 0;
+    color: #333;
+  }
+  
+  .panelist-affil {
+    color: #0081cb;
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.4;
+  }
+
+  /* --- responsive design --- */
+  @media (max-width: 768px) {
+    .panelists-section {
+      padding: 1.5rem 0.5rem 1rem;
+    }
+    
+    .panelist-card {
+      margin-bottom: 2rem;
+      border-radius: 1.5rem;
+    }
+    
+    .panelist-card img {
+      max-width: none;
+      aspect-ratio: 1 / 1;
+      border-radius: 1.5rem 1.5rem 0 0;
+    }
+    
+    .panelist-info {
+      padding: 1.5rem;
+    }
+    
+    .panelist-name {
+      font-size: 1.3rem;
+    }
+    
+    .panelist-affil {
+      font-size: 1rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .panelist-card img {
+      max-width: none;
+      aspect-ratio: 1 / 1;
+    }
+    
+    .panelist-info {
+      padding: 1.25rem;
+    }
+  }
+</style>
+
+<div class="panelists-section">
+  <h2 style="margin-bottom: 3rem; color: #333; font-family: system-ui, sans-serif;">Panelists</h2>
+
+  <!-- ===== Panelist 1 ===== -->
+  <div class="panelist-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/dla.jpg" alt="PAlbert Kahira" />
+    <div class="panelist-info">
+      <div class="panelist-name">Albert Kahira</div>
+    </div>
+  </div>
+
+  <!-- ===== Panelist 2 ===== -->
+  <div class="panelist-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/dla.jpg" alt="Prof. Vukosi Marivate" />
+    <div class="panelist-info">
+      <div class="panelist-name">Prof. Vukosi Marivate</div>
+    </div>
+  </div>
+
+  <!-- ===== Panelist 3 ===== -->
+  <div class="panelist-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/dla.jpg" alt="Panelist 3" />
+    <div class="panelist-info">
+      <div class="panelist-name">Panelist Name 3</div>
+      <div class="panelist-affil">Affiliation 3</div>
+    </div>
+  </div>
+
+  <!-- ===== Panelist 4 ===== -->
+  <div class="panelist-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/dla.jpg" alt="Panelist 4" />
+    <div class="panelist-info">
+      <div class="panelist-name">Panelist Name 4</div>
+      <div class="panelist-affil">Affiliation 4</div>
+    </div>
+  </div>
+
+</div>
+
+
