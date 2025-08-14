@@ -194,7 +194,7 @@ The organising team for this workshop has rich and varied collective experience 
     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/chris emezue.jpg" alt="Chris Emezue" />
     <div class="organizer-info">
       <div class="organizer-name">Chris Emezue</div>
-      <div class="organizer-affil">Founder & Executive Director at Lanfrica Labs; Researcher at Mila, Canada</div>
+      <div class="organizer-affil">Lanfrica Labs; Researcher at Mila </div>
     </div>
   </div>
 
