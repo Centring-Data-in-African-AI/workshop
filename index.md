@@ -56,6 +56,11 @@ It will also provide a platform to discuss the current landscape of the data pip
   <li><a href="{{ site.url }}{{ site.baseurl }}/organizers">meet the amazing organisers</a></li>
 </ul>
 
+
+<br>
+For questions, issues, feedback, etc, please do not hesitate to reach us via email at [centring-data-in-african-ai@googlegroups.com](mailto:centring-data-in-african-ai@googlegroups.com)
+
+
 <div style="background:#fff8db; color:#333; border-left:6px solid #1e6c93; padding:1em 1.25em; margin:1.5em 0; border-radius:0.5em; box-shadow:0 2px 8px rgba(30,108,147,0.07); display:flex; align-items:flex-start; gap:0.75em;">
   <span style="font-size:1.5em; line-height:1; margin-right:0.5em;">🛈</span>
   <span>
@@ -63,5 +68,3 @@ It will also provide a platform to discuss the current landscape of the data pip
   </span>
 </div>
 
-<br>
-For questions, issues, feedback, etc, please do not hesitate to reach us via email at [centring-data-in-african-ai@googlegroups.com](mailto:centring-data-in-african-ai@googlegroups.com)
