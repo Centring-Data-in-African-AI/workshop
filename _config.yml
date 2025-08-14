@@ -23,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Organisers', link: '/organizers'}
   - {name: 'Agenda', link: '/agenda'}
   - {name: 'Speakers', link: '/speakers'}
-  - {name: 'LightningTalks', link: '/lightningtalks'}
+  - {name: '⚡Talks', link: '/lightningtalks'}
 
 tagline: >
   A DLI 2025 Workshop |
