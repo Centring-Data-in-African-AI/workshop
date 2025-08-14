@@ -8,158 +8,211 @@ The organising team for this workshop has rich and varied collective experience 
 
 <!-- =====  Speaker section  ===== -->
 <style>
-  /* --- top‐level container; no longer wraps all cards as one flexbox --- */
+  /* --- top‐level container --- */
   .speaker-section {
     text-align: center;
     font-family: system-ui, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
   }
 
-  /* --- each “row” is a flex container on its own --- */
-.speaker-row {
-  display: flex;
-  flex-direction: row;      /* horizontal by default */
-  justify-content: center;
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-  /* --- individual card styling (same as before) --- */
-  .speaker-card {
+  /* --- individual organizer card styling --- */
+  .organizer-card {
     background: #fff;
-    width: 220px;                /* tweak width as needed */
-    border-radius: 1rem;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, .07);
-    transition: transform .2s ease, box-shadow .2s ease;
+    border-radius: 2rem;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, .08);
+    transition: transform .3s ease, box-shadow .3s ease;
+    margin-bottom: 3rem;
+    overflow: hidden;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
   }
-  .speaker-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, .10);
+  
+  .organizer-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 16px 32px rgba(0, 0, 0, .12);
   }
 
-  .speaker-card img {
+  .organizer-card img {
     width: 100%;
-    height: 240px;               /* keep faces equally tall */
+    height: 400px;
     object-fit: cover;
-    border-top-left-radius: 1rem;
-    border-top-right-radius: 1rem;
+    border-radius: 2rem 2rem 0 0;
   }
 
-  .speaker-name {
-    font-weight: 700;
-    font-size: 1.1rem;
-    margin: 1rem .75rem .35rem;
+  .organizer-info {
+    padding: 2rem;
+    text-align: center;
   }
-  .speaker-affil {
+
+  .organizer-name {
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin: 0 0 0.75rem 0;
+    color: #333;
+  }
+  
+  .organizer-affil {
     color: #0081cb;
     font-weight: 600;
-    font-size: .9rem;
-    margin-bottom: 1.25rem;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.4;
   }
 
-
-@media (max-width: 600px) {
-  /* Stack each row’s cards vertically */
-  .speaker-row {
-    flex-direction: column;
-    gap: 1.5rem;
-    margin-top: 1.5rem;
-  }
-
-  /* Allow each card to expand full‐width on mobile */
-  .speaker-card {
-    width: 100%;
-    max-width: 360px;    /* optional cap */
+  .organizer-bio {
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #666;
+    max-width: 600px;
     margin: 0 auto;
   }
 
-  /* Let the image scale naturally */
-  .speaker-card img {
-    height: auto;
-    aspect-ratio: 4/5;
+  /* --- special styling for Shaimaa's card --- */
+  .organizer-card.special {
+    max-width: 900px;
   }
-}
 
+  .organizer-card.special img {
+    height: 450px;
+  }
 
+  .organizer-card.special .organizer-info {
+    padding: 2.5rem;
+  }
 
+  /* --- responsive design --- */
+  @media (max-width: 768px) {
+    .speaker-section {
+      padding: 0 0.5rem;
+    }
+    
+    .organizer-card {
+      margin-bottom: 2rem;
+      border-radius: 1.5rem;
+    }
+    
+    .organizer-card img {
+      height: 300px;
+      border-radius: 1.5rem 1.5rem 0 0;
+    }
+    
+    .organizer-info {
+      padding: 1.5rem;
+    }
+    
+    .organizer-name {
+      font-size: 1.3rem;
+    }
+    
+    .organizer-affil {
+      font-size: 1rem;
+    }
+    
+    .organizer-bio {
+      font-size: 0.95rem;
+    }
+    
+    .organizer-card.special img {
+      height: 350px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .organizer-card img {
+      height: 250px;
+    }
+    
+    .organizer-card.special img {
+      height: 300px;
+    }
+    
+    .organizer-info {
+      padding: 1.25rem;
+    }
+  }
 </style>
 
 <div class="speaker-section">
 
-  <!-- ===== Row 1: exactly 3 speakers ===== -->
-  <div class="speaker-row">
-    <!-- Org 1 -->
-    <div class="speaker-card">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/wiebke.jpg" alt="Dr Wiebke Hutiri" />
-      <div class="speaker-name">Dr Wiebke Hutiri</div>
-      <div class="speaker-affil">Research Scientist, Sony AI, Switzerland</div>
+  <!-- ===== Organizer 1: Wiebke ===== -->
+  <div class="organizer-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/wiebke.jpg" alt="Dr Wiebke Hutiri" />
+    <div class="organizer-info">
+      <div class="organizer-name">Dr Wiebke Hutiri</div>
+      <div class="organizer-affil">Research Scientist, Sony AI, Switzerland</div>
     </div>
+  </div>
 
-  <!-- Org 2 -->
-  <div class="speaker-card">
+  <!-- ===== Organizer 2: Siobhan ===== -->
+  <div class="organizer-card">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/SMHall.jpg" alt="Siobhan Mackenzie Hall" />
-    <div class="speaker-name">Siobhan Mackenzie Hall</div>
-    <div class="speaker-affil">DPhil Student, University of Oxford</div>
-  </div>
-
-  <!-- Org 3 -->
-  <div class="speaker-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/rae_rae.png" alt="Raesetje Sefala" />
-    <div class="speaker-name">Raesetje Sefala</div>
-    <div class="speaker-affil">PhD Student at McGill University and Mila, Research Fellow at DAIR Institute, Canada</div>
-  </div>
-  </div>
-
-
-
-  <!-- ===== Row 3: exactly 4 speakers ===== -->
-  <div class="speaker-row">
-    <!-- Org 7 -->
-    <div class="speaker-card">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/Thapelo.jpg" alt="Thapelo Andrew Sindane" />
-      <div class="speaker-name">Thapelo Andrew Sindane</div>
-      <div class="speaker-affil">PhD Candidate, Computer Science, University of Pretoria</div>
+    <div class="organizer-info">
+      <div class="organizer-name">Siobhan Mackenzie Hall</div>
+      <div class="organizer-affil">DPhil Student, University of Oxford</div>
     </div>
+  </div>
 
-<!-- Org 4 -->
-  <div class="speaker-card">
+  <!-- ===== Organizer 3: Raesetje ===== -->
+  <div class="organizer-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/rae_rae.png" alt="Raesetje Sefala" />
+    <div class="organizer-info">
+      <div class="organizer-name">Raesetje Sefala</div>
+      <div class="organizer-affil">PhD Student at McGill University and Mila, Research Fellow at DAIR Institute, Canada</div>
+    </div>
+  </div>
+
+  <!-- ===== Organizer 4: Thapelo ===== -->
+  <div class="organizer-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/Thapelo.jpg" alt="Thapelo Andrew Sindane" />
+    <div class="organizer-info">
+      <div class="organizer-name">Thapelo Andrew Sindane</div>
+      <div class="organizer-affil">PhD Candidate, Computer Science, University of Pretoria</div>
+    </div>
+  </div>
+
+  <!-- ===== Organizer 5: Jessica ===== -->
+  <div class="organizer-card">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/jess.jpeg" alt="Jessica Ojo" />
-    <div class="speaker-name">Jessica Ojo</div>
-    <div class="speaker-affil">Research Engineer, Lelapa.ai; Research Student at McGill University and Mila, Canada</div>
+    <div class="organizer-info">
+      <div class="organizer-name">Jessica Ojo</div>
+      <div class="organizer-affil">Research Engineer, Lelapa.ai; Research Student at McGill University and Mila, Canada</div>
+    </div>
   </div>
 
-  <!-- Org 5 -->
-  <div class="speaker-card">
+  <!-- ===== Organizer 6: Aremu ===== -->
+  <div class="organizer-card">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/aremu.jpg" alt="Aremu Anuoluwapo" />
-    <div class="speaker-name">Aremu Anuoluwapo</div>
-    <div class="speaker-affil">Lead Data Officer, Lelapa.ai; MSc. Student at University of Trento, Italy</div>
+    <div class="organizer-info">
+      <div class="organizer-name">Aremu Anuoluwapo</div>
+      <div class="organizer-affil">Lead Data Officer, Lelapa.ai; MSc. Student at University of Trento, Italy</div>
+    </div>
   </div>
 
-  <!-- Org 6 -->
-  <div class="speaker-card">
+  <!-- ===== Organizer 7: Chris ===== -->
+  <div class="organizer-card">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/organizer/chris emezue.jpg" alt="Chris Emezue" />
-    <div class="speaker-name">Chris Emezue</div>
-    <div class="speaker-affil">Founder & Executive Director at Lanfrica Labs; Researcher at Mila, Canada</div>
+    <div class="organizer-info">
+      <div class="organizer-name">Chris Emezue</div>
+      <div class="organizer-affil">Founder & Executive Director at Lanfrica Labs; Researcher at Mila, Canada</div>
+    </div>
   </div>
 
-  </div>
-
-</div>
-
-  <!-- ===== Acknowledgment Section ===== -->
-  <div style="margin-top: 4rem; text-align: center;">
-    <!-- <h2 style="margin-bottom: 2rem; color: #333; font-family: system-ui, sans-serif;">Special Acknowledgment</h2> -->
-    
-    <div style="display: flex; justify-content: center; margin-top: 2rem;">
-      <div class="speaker-card" style="display: flex; align-items: flex-start; margin: 0; max-width: 900px; width: 100%; background: none; box-shadow: none; gap: 2rem;">
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Shaimaa-Lazem-lbw-chair.jpg" alt="Prof Shaimaa" style="height: 320px; width: 240px; object-fit: cover; border-radius: 0.5rem; flex-shrink: 0;" />
-        <div style="text-align: left; flex: 1; min-width: 0;">
-          <div class="speaker-name" style="margin-top: 0; margin-bottom: 1rem;">Prof Shaimaa Lazem</div>
-          <div style="padding: 0; font-size: 0.9rem; line-height: 1.6; color: #666; overflow-x: auto; white-space: normal;">
-            Shaimaa Lazem is an Associate Research Professor at the City of Scientific Research and Technological Applications (SRTA-City), Egypt. Her PhD in Computer Science from Virginia Tech, USA, fueled her passion for understanding how technology design can transcend Western perspectives. Dr. Lazem champions the development of inclusive and impactful technologies. She leverages participatory design methods and critical approaches like decolonial and feminist theories to ensure technology serves everyone effectively. She is working on developing human-centered approaches to design Natural Language Processing (NLP) applications in Africa with support from Google 2020 Award for Inclusion Research and Google AI 2021 Award. She was Recognized as <a href="https://www.acm.org/articles/people-of-acm/2023/shaimaa-lazem" target="_blank">People of ACM in 2023</a> and a Leaders-in-Innovation Fellow with the Royal Academy of Engineering in London since 2018.
-          </div>
-        </div>
+  <!-- ===== Special Acknowledgment: Shaimaa ===== -->
+  <div class="organizer-card special">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Shaimaa-Lazem-lbw-chair.jpg" alt="Prof Shaimaa" />
+    <div class="organizer-info">
+      <div class="organizer-name">Prof Shaimaa Lazem</div>
+      <div class="organizer-affil">Associate Research Professor, City of Scientific Research and Technological Applications (SRTA-City), Egypt</div>
+      <div class="organizer-bio">
+        Shaimaa Lazem is an Associate Research Professor at the City of Scientific Research and Technological Applications (SRTA-City), Egypt. Her PhD in Computer Science from Virginia Tech, USA, fueled her passion for understanding how technology design can transcend Western perspectives. Dr. Lazem champions the development of inclusive and impactful technologies. She leverages participatory design methods and critical approaches like decolonial and feminist theories to ensure technology serves everyone effectively. She is working on developing human-centered approaches to design Natural Language Processing (NLP) applications in Africa with support from Google 2020 Award for Inclusion Research and Google AI 2021 Award. She was Recognized as <a href="https://www.acm.org/articles/people-of-acm/2023/shaimaa-lazem" target="_blank">People of ACM in 2023</a> and a Leaders-in-Innovation Fellow with the Royal Academy of Engineering in London since 2018.
       </div>
     </div>
   </div>
+
+</div>
 
 
