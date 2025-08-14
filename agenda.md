@@ -14,19 +14,15 @@ permalink: /agenda/
 </div>
 
 
-| Workshop Item                             | Duration              |
-|---------------------------------------------------------|--------------------------------|
-| Welcome and opening remarks                             | 10 minutes                     |
-| Part 1: Socio-technical Data Opportunities & Challenges |                                |
-| First keynote: Joan Kinyua                              | 30 minutes (including Q&A)     |
-| Lightning Talks 1                                       | 5 x 10 minute talks = 50 minutes |
-| Breakout Session 1                                      | 40 minutes                     |
-| Feedback and Wrap-up of Socio-technical Track           | 20 minutes                     |
-| Break for lunch                                         | 60 minutes                     |
-| Part 2: Technical Data Opportunities & Challenges       |                                |
-| Second Keynote: Girmaw Abebe Tadesse                    | 30 minutes (including Q&A)     |
-| Lightning Talks 2                                       | 5 x 10 minute talks = 50 minutes |
-| Breakout Session 2                                      | 50 minutes                     |
-| Panel Discussion (speakers TBC)                         | 40 minutes                     |
-| Workshop Wrap-up                                        | 10 minutes                     |
-
+| Agenda                        | Time          |
+|-------------------------------|---------------|
+| Welcome and opening remarks   | 09:00 - 09:10 |
+| Keynote: Joan Kinyua          | 09:10 - 09:40 |
+| Lightning Talks Part 1        | 09:40 - 10:30 |
+| A unique interactive session  | 10:30 - 11:30 |
+| Coffee break                  | 11:30 - 12:00 |
+| Lightning Talks Part 2        | 12:00 - 12:50 |
+| Break for lunch               | 13:00 - 14:30 |
+| Keynote: Girmaw Abebe Tadesse | 14:30 - 15:00 |
+| Panel Session                 | 15:00 - 15:40 |
+| Workshop Wrap-up              | 15:40 - 16:00 |
