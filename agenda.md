@@ -9,7 +9,7 @@ permalink: /agenda/
 <div style="background:#fff8db; color:#333; border-left:6px solid #1e6c93; padding:1em 1.25em; margin:1.5em 0; border-radius:0.5em; box-shadow:0 2px 8px rgba(30,108,147,0.07); display:flex; align-items:flex-start; gap:0.75em;">
   <span style="font-size:1.5em; line-height:1; margin-right:0.5em;">🛈</span>
   <span>
-    We are still finalizing the exact session times. Please check back soon for the updated agenda.
+    Our workshop takes place on Thursday, August 21st, 2025.
   </span>
 </div>
 
