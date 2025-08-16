@@ -20,7 +20,7 @@ Our workshop takes place on Thursday, August 21st, 2025.
 | Welcome and opening remarks                            | 09:00 - 09:10 |
 | Keynote: Joan Kinyua                                   | 09:10 - 09:40 |
 | Lightning Talks 1                                      | 09:40 - 10:30 |
-| A unique immersive session. We promise you'll love it. | 10:30 - 11:30 |
+| A unique brekaout session. We promise you'll love it. | 10:30 - 11:30 |
 | Coffee break                                           | 11:30 - 12:00 |
 | Lightning Talks 2                                      | 12:00 - 13:00 |
 | Break for lunch                                        | 13:00 - 14:30 |
