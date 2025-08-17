@@ -246,23 +246,7 @@ University of London through the Erasmus Mundus Double Doctorate Program.
     </div>
   </div>
 
-  <!-- ===== Panelist 3 ===== -->
-  <div class="panelist-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/dla.jpg" alt="Panelist 3" />
-    <div class="panelist-info">
-      <div class="panelist-name">Panelist Name 3</div>
-      <div class="panelist-affil">Affiliation 3</div>
-    </div>
-  </div>
 
-  <!-- ===== Panelist 4 ===== -->
-  <div class="panelist-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/dla.jpg" alt="Panelist 4" />
-    <div class="panelist-info">
-      <div class="panelist-name">Panelist Name 4</div>
-      <div class="panelist-affil">Affiliation 4</div>
-    </div>
-  </div>
 
 </div>
 

@@ -15,15 +15,16 @@ permalink: /agenda/
 
 Our workshop takes place on Thursday, August 21st, 2025.
 
-| Agenda                                                 | Time          |
-|--------------------------------------------------------|---------------|
-| Welcome and opening remarks                            | 09:00 - 09:10 |
-| Keynote: Joan Kinyua                                   | 09:10 - 09:40 |
-| Lightning Talks 1                                      | 09:40 - 10:30 |
-| A unique brekaout session. We promise you'll love it. | 10:30 - 11:30 |
-| Coffee break                                           | 11:30 - 12:00 |
-| Lightning Talks 2                                      | 12:00 - 13:00 |
-| Break for lunch                                        | 13:00 - 14:30 |
-| Keynote: Girmaw Abebe Tadesse                          | 14:30 - 15:00 |
-| Panel Session                                          | 15:00 - 15:50 |
-| Workshop Wrap-up                                       | 15:50 - 16:00 |
+| Agenda                                                | Time          |
+|-------------------------------------------------------|---------------|
+| Welcome and opening remarks                           | 09:00 - 09:10 |
+| Keynote: Joan Kinyua                                  | 09:10 - 09:40 |
+| Lightning Talks 1 (4 speakers)                        | 09:40 - 10:20 |
+| A unique breakout session. We promise you'll love it. | 10:20 - 11:30 |
+| Coffee break                                          | 11:30 - 12:00 |
+| Lightning Talks 2 (3 speakers)                        | 12:00 - 12:30 |
+| Keynote: Girmaw Abebe Tadesse                         | 12:30 - 13:00 |
+| Break for lunch                                       | 13:00 - 14:30 |
+| Lightning Talks 3 (2 speakers)                        | 14:30 - 15:00 |
+| Panel Discussion                                      | 15:00 - 15:50 |
+| Workshop Wrap-up                                      | 15:50 - 16:00 |
