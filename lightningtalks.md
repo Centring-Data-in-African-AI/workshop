@@ -71,44 +71,54 @@ The <i>Centring Data in African AI</i> workshop examines the challenges and oppo
     <tr style="background: linear-gradient(135deg, #1e6c93 0%, #155274 100%); color: white;">
       <th style="padding: 1rem; text-align: left; font-weight: 600;">Name</th>
       <th style="padding: 1rem; text-align: left; font-weight: 600;">Talk Title</th>
+      <th style="padding: 1rem; text-align: left; font-weight: 600;">Part</th>
     </tr>
   </thead> 
      <tbody>
      <tr style="border-bottom: 1px solid #f0f0f0;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Praise Amonye</td>
        <td style="padding: 1rem; color: #666;">Blood, Bytes & Borders: Rethinking Data Sovereignty in AI-Driven Malaria Diagnosis in Africa</td>
+       <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 1</td>
      </tr>
      <tr style="border-bottom: 1px solid #f0f0f0; background: #fafafa;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Astride Melvin Fokam Ninyim</td>
        <td style="padding: 1rem; color: #666;">Centring African Data in AI: Navigating Ethics, Quality, and Innovation in Local Contexts</td>
+       <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 1</td>
      </tr>
      <tr style="border-bottom: 1px solid #f0f0f0;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Onyewuchi Njoku</td>
        <td style="padding: 1rem; color: #666;">Combating Plant Pathogen Spread in Sub-Saharan Africa</td>
+       <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 1</td>
      </tr>
-     <tr style="border-bottom: 1px solid #f0f0f0;">
+     <tr style="border-bottom: 1px solid #f0f0f0; background: #fafafa;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Lyvia Lusiji</td>
        <td style="padding: 1rem; color: #666;">Data to Delivery: Designing LLMs for Maternal Health Impact in Low-Resource Settings</td>
+       <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 1</td>
      </tr>
      <tr style="border-bottom: 1px solid #f0f0f0;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Michael Leventhal</td>
        <td style="padding: 1rem; color: #666;">One Size Does Not Fit All: Tailoring Data Annotation Pipelines for African Languages</td>
+       <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 2</td>
      </tr>
      <tr style="border-bottom: 1px solid #f0f0f0; background: #fafafa;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Daniel Mutembesa</td>
        <td style="padding: 1rem; color: #666;">The community knows what it wants! Crowd Wisdoms in Community Sensing for Datasets</td>
+       <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 2</td>
      </tr>
      <tr style="border-bottom: 1px solid #f0f0f0;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Amos Mwendwa</td>
        <td style="padding: 1rem; color: #666;">The Data Gap in African Agriculture: Why global AI models fail ASAL farmers</td>
+       <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 2</td>
      </tr>
      <tr style="border-bottom: 1px solid #f0f0f0; background: #fafafa;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Nadine Nibigira</td>
        <td style="padding: 1rem; color: #666;">Using AI for Securing Critical Information Infrastructures</td>
+       <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 3</td>
      </tr>
      <tr style="border-bottom: 1px solid #f0f0f0;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Joy Victor</td>
        <td style="padding: 1rem; color: #666;">Who Owns African Data? Cyber Threats and the Fight for Digital Sovereignty</td>
+       <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 3</td>
      </tr>
    </tbody>
 </table>
