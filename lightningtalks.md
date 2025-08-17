@@ -62,7 +62,7 @@ The <i>Centring Data in African AI</i> workshop examines the challenges and oppo
 
 
 
-## Accepted Lightning Talks
+#### Accepted Lightning Talks
 
 <div style="margin: 2rem 0; overflow-x: auto;">
   <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"> 
