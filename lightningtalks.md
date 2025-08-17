@@ -86,10 +86,6 @@ The <i>Centring Data in African AI</i> workshop examines the challenges and oppo
        <td style="padding: 1rem; font-weight: 500; color: #333;">Onyewuchi Njoku</td>
        <td style="padding: 1rem; color: #666;">Combating Plant Pathogen Spread in Sub-Saharan Africa</td>
      </tr>
-     <tr style="border-bottom: 1px solid #f0f0f0; background: #fafafa;">
-       <td style="padding: 1rem; font-weight: 500; color: #333;">Ussen Kimanuka</td>
-       <td style="padding: 1rem; color: #666;">Data ethics before people ethics in machine learning</td>
-     </tr>
      <tr style="border-bottom: 1px solid #f0f0f0;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Lyvia Lusiji</td>
        <td style="padding: 1rem; color: #666;">Data to Delivery: Designing LLMs for Maternal Health Impact in Low-Resource Settings</td>
