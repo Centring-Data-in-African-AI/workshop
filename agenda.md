@@ -13,8 +13,6 @@ permalink: /agenda/
   </span>
 </div>
 
-Our workshop takes place on Thursday, August 21st, 2025.
-
 | Agenda                                                | Time          |
 |-------------------------------------------------------|---------------|
 | Welcome and opening remarks                           | 09:00 - 09:10 |
