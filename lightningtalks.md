@@ -96,7 +96,7 @@ The <i>Centring Data in African AI</i> workshop examines the challenges and oppo
        <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 1</td>
      </tr>
      <tr style="border-bottom: 1px solid #f0f0f0;">
-       <td style="padding: 1rem; font-weight: 500; color: #333;">Michael Leventhal</td>
+       <td style="padding: 1rem; font-weight: 500; color: #333;">Yacouba Diarra</td>
        <td style="padding: 1rem; color: #666;">One Size Does Not Fit All: Tailoring Data Annotation Pipelines for African Languages</td>
        <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 2</td>
      </tr>
