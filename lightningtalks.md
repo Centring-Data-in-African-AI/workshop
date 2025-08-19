@@ -107,7 +107,7 @@ The <i>Centring Data in African AI</i> workshop examines the challenges and oppo
      </tr>
      <tr style="border-bottom: 1px solid #f0f0f0;">
        <td style="padding: 1rem; font-weight: 500; color: #333;">Amos Mwendwa</td>
-       <td style="padding: 1rem; color: #666;">The Data Gap in African Agriculture: Why global AI models fail ASAL farmers</td>
+       <td style="padding: 1rem; color: #666;">The Data Gap in African Agriculture: Why Global AI models fail ASAL farmers</td>
        <td style="padding: 1rem; color: #0081cb; font-weight: 600;">Part 2</td>
      </tr>
      <tr style="border-bottom: 1px solid #f0f0f0; background: #fafafa;">
