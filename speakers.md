@@ -246,7 +246,22 @@ University of London through the Erasmus Mundus Double Doctorate Program.
     </div>
   </div>
 
+  <!-- ===== Panelist 3 ===== -->
+  <div class="panelist-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/panel/felicia.jpeg" alt="Felecia Webb" />
+    <div class="panelist-info">
+      <div class="panelist-name">Felecia Webb </div>
+    </div>
+  </div>
 
+
+  <!-- ===== Panelist 4 ===== -->
+  <div class="panelist-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/panel/chris.png" alt="Felecia Webb" />
+    <div class="panelist-info">
+      <div class="panelist-name">Chris Emezue </div>
+    </div>
+  </div>
 
 </div>
 
