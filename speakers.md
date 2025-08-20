@@ -232,7 +232,7 @@ University of London through the Erasmus Mundus Double Doctorate Program.
 
   <!-- ===== Panelist 1 ===== -->
   <div class="panelist-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/dla.jpg" alt="PAlbert Kahira" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/panel/albert.jpg" alt="Albert Kahira" />
     <div class="panelist-info">
       <div class="panelist-name">Albert Kahira</div>
     </div>
@@ -240,7 +240,7 @@ University of London through the Erasmus Mundus Double Doctorate Program.
 
   <!-- ===== Panelist 2 ===== -->
   <div class="panelist-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/speaker/dla.jpg" alt="Prof. Vukosi Marivate" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/panel/vukosi.jpg" alt="Prof. Vukosi Marivate" />
     <div class="panelist-info">
       <div class="panelist-name">Prof. Vukosi Marivate</div>
     </div>
